@@ -1,2 +1,2 @@
 # sharing-github-msc
-td de RO au dep INFO
+td d'ANANU et de RO au dep INFO
